@@ -6,7 +6,7 @@ body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
   background-image: url('images/ahu_hero.jpg');
   background-size: cover;
   background-position: center;
-  color: white;
+  color: blue;
   padding: 120px 0;
 }
 .section-title { color: #12324b; margin-bottom: 20px; }
